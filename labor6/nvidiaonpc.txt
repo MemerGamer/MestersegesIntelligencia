@@ -1,0 +1,2 @@
+- cuda toolkit
+- direct ml - on windows, linux?
