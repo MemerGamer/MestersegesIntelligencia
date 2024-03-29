@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 labor6/flowers_4322.zip
 *.csv
+./Lab5_Support_Vector_Machine_and_PCA.ipynb
+Lab5_Support_Vector_Machine_and_PCA.ipynb
